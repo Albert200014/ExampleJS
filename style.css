@@ -1,0 +1,28 @@
+.conteiner {
+  width: 100%;
+  margin:auto;
+  font-size: 25px;
+  color:red;
+  margin: auto;
+}
+
+.cont1 p {
+  font-size: 20px;
+ text-align: right;
+ word-spacing: 35px;
+}
+
+
+.nkar1{
+  width: 60%;
+  object-fit: contain;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.nkar2 {
+  width: 100%;
+  height: 500px;
+}
+
